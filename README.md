@@ -40,4 +40,11 @@ Una aplicación interactiva desarrollada en Python con Pygame que genera curvas 
    ```bash
    git clone https://github.com/Fishertdevs/Curvas_Avanzadas.git
    cd Curvas_Avanzadas
+
+---
+## Preview 
+
+![image](https://github.com/user-attachments/assets/359b294b-32dd-4898-9930-c919062a2e30)
+
+
    Desarrollado por harry fishert
